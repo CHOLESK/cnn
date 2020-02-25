@@ -33,6 +33,10 @@ model.fit(
   validation_data=(test_images, to_categorical(test_labels)),
 )
 
+
+#shjbvhvbhbvhbv
+
+
 '''
 Epoch 1
 46s 760us/step - loss: 0.2433 - acc: 0.9276 - val_loss: 0.1176 - val_acc: 0.9634
